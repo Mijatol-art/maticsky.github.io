@@ -12,7 +12,7 @@ This is a minecraft website  Maticsky uses.
 ## Info
 
 ```
-Maded in c#
+Maded in Html, CSS, JS
 ```
 ## Credits
 
